@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Who Is My Representative</string>
+    <string name="ok">OK</string>
+
+    <string name="enter_zip_code">Enter your ZIP code</string>
+    <string name="zip_code_hint">84107</string>
+    <string name="reps4zip">Representatives for </string>
+
+    <string name="or_senator_last_name">Or enter a Senator\'s last name</string>
+    <string name="last_name_senator_hint">Hatch</string>
+    <string name="sentors4name">Senators with Last Name </string>
+
+    <string name="or_state_4senator">Or enter a state abbreviation (for list of Senators)</string>
+    <string name="state_hint">UT</string>
+    <string name="sentors4state">Senators for state abbreviation </string>
+
+
+    <string name="or_rep_last_name">Or enter a Representative\'s last name</string>
+    <string name="last_name_rep_hint">Matheson</string>
+    <string name="reps4name">Representatives with Last Name </string>
+
+
+    <string name="or_state_4rep">Or enter a state abbreviation (for list of Representatives)</string>
+    <string name="reps4state">Representatives for state abbreviation </string>
+
+
+    <string name="action_settings">Settings</string>
+
+    <string name="error_title">Error!</string>
+    <string name="error_message">We\'re sorry an error has been encountered.\n Please check your internet connection try again.</string>
+
+    <string name="no_reponse">Sorry, no response from server. \nCheck that you have entered the data in the correct format.\n Two letter abbreviation for state.\n 5 digit number for ZIP code.\n The last name is spelled correctly.</string>
+</resources>
